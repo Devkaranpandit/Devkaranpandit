@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Devkaranpandit
-- 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on upcoming projects in future.
+- 💞️ I’m looking for Internship to apply my skills and learn new things.
 - 📫 you can contact me on email-devkaranxb@gmail.com
 - 😄 Pronouns:his/him
 - ⚡ Fun fact: ...........
